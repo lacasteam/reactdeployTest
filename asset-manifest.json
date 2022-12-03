@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/reactdeployTest/static/css/main.073c9b0a.css",
-    "main.js": "/reactdeployTest/static/js/main.d484fcd5.js",
-    "static/js/787.270ceb91.chunk.js": "/reactdeployTest/static/js/787.270ceb91.chunk.js",
+    "main.js": "/reactdeployTest/static/js/main.e996dea7.js",
+    "static/media/shoes.png": "/reactdeployTest/static/media/shoes.60e7eb2581b923ddc390.png",
+    "static/media/mall.png": "/reactdeployTest/static/media/mall.4ca7ac7231594b3d1f06.png",
+    "static/media/mens.png": "/reactdeployTest/static/media/mens.7f121bd9b33d07343a39.png",
+    "static/media/women.png": "/reactdeployTest/static/media/women.9a1a684cebe8599d2d6c.png",
+    "static/media/sc10.jpeg": "/reactdeployTest/static/media/sc10.7b8845a181b41a9a3adf.jpeg",
+    "static/media/prices.jpg": "/reactdeployTest/static/media/prices.c1847caf688f2895a1c5.jpg",
     "index.html": "/reactdeployTest/index.html",
     "main.073c9b0a.css.map": "/reactdeployTest/static/css/main.073c9b0a.css.map",
-    "main.d484fcd5.js.map": "/reactdeployTest/static/js/main.d484fcd5.js.map",
-    "787.270ceb91.chunk.js.map": "/reactdeployTest/static/js/787.270ceb91.chunk.js.map"
+    "main.e996dea7.js.map": "/reactdeployTest/static/js/main.e996dea7.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d484fcd5.js"
+    "static/js/main.e996dea7.js"
   ]
 }
